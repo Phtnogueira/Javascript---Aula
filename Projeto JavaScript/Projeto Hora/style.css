@@ -18,6 +18,10 @@ section {
     text-align: center;
 }
 
+div {
+    padding: 8px;
+}
+
 img {
     border-radius: 50%;
     width: 300px;
