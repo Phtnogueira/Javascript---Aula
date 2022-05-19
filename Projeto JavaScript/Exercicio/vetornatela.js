@@ -9,3 +9,7 @@ console.log(valores[3])
 console.log(valores[4])
 console.log(valores[5])
 */
+
+for(let pos=0; pos < valores.length; pos++) {
+    
+}
